@@ -12,4 +12,4 @@ Appreciation notes of literatures (including dramas, films, games, manga, and an
 - `lightNovel.md` - 輕小說　ライトノベル　Light novels
 - `manga.md` - 漫畫　漫画　Manga
 - `song.md` - 歌　歌　Songs
-- `glossary.md` - 詞彙表　Glossary　用語集
+- `glossary.md` - 詞彙表　用語集　Glossary
