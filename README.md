@@ -1,15 +1,15 @@
 # Notes-literature
 
-文學（含劇本）作品觀覽筆記。
+ACGN 作品觀覽筆記。
 
-文学（シナリオを含む）作品鑑賞メモ。
+アニメ・漫画・ライトノベル・美少女ゲーム作品鑑賞メモ。
 
-Appreciation notes of literatures (including scenarios).
+Appreciation notes of *anime*, *manga*, light novels, and *bishōjo* games.
 
 # File Information
 
-- `anime.md` - 動畫　アニメ　Anime
-- `galgame.md` - Galgame　美少女ゲーム　Visual novels
-- `lightNovel.md` - 輕小說　ライトノベル　Light novels
-- `manga.md` - 漫畫　漫画　Manga
+- `anime.md` - 動畫　アニメ　*Anime*
+- `bishōjo games.md` - 美少女遊戲　美少女ゲーム　*Bishōjo* games
+- `light novels.md` - 輕小說　ライトノベル　Light novels
+- `manga.md` - 漫畫　漫画　*Manga*
 - `glossary.md` - 詞彙表　用語集　Glossary
